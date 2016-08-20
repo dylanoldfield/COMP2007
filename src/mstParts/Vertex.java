@@ -1,7 +1,13 @@
 package mstParts;
 
 /**
- * Created by dylan on 20/08/2016.
+ * Created by Dylan Oldfield on 20/08/2016.
+ * Vertex Class
+ *
+ * This class represents the vertices of the graph
+ *
+ * Key: vertex number
+ * Weight: when linked in a Vertex's arraylist the edge weight between this vertex the root vertex
  */
 public class Vertex {
 
